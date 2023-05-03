@@ -1,5 +1,6 @@
 <h3>Spring Boot CRUD Application<h3></br>
 This is a sample Spring Boot application that demonstrates how to perform CRUD (Create, Read, Update, Delete) </br>
+<hr>
 operations using</br>
 STS 4</br>
 Postman 12</br>
