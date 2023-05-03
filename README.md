@@ -1,5 +1,5 @@
-Spring Boot CRUD Application/
-This is a sample Spring Boot application that demonstrates how to perform CRUD (Create, Read, Update, Delete) /
+Spring Boot CRUD Application</br>
+This is a sample Spring Boot application that demonstrates how to perform CRUD (Create, Read, Update, Delete) <br>
 operations using/
 STS 4/
 Postman 12/
