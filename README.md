@@ -1,17 +1,17 @@
 Spring Boot CRUD Application</br>
-This is a sample Spring Boot application that demonstrates how to perform CRUD (Create, Read, Update, Delete) <br>
-operations using/
-STS 4/
-Postman 12/
-Java 8/ 
-Lombok library/
-and other tools./
-The application is designed to manage the admission process of an educational institution./
+This is a sample Spring Boot application that demonstrates how to perform CRUD (Create, Read, Update, Delete) </br>
+operations using</br>
+STS 4</br>
+Postman 12</br>
+Java 8</br>
+Lombok library</br>
+and other tools.</br>
+The application is designed to manage the admission process of an educational institution.</br>
 
-Prerequisites
-To run this application, you need to have the following installed:
+Prerequisites</br>
+To run this application, you need to have the following installed:</br>
 
-Java 8 or higher/
-STS 4 or any other IDE of your choice/
-Postman 12 or any other API development tool/
-Lombok library/
+Java 8 or higher</br>
+STS 4 or any other IDE of your choice</br>
+Postman 12 or any other API development tool</br>
+Lombok library</br>
